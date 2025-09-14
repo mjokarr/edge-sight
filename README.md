@@ -107,7 +107,7 @@ Detailed steps and environment variables are documented in docs/DEPLOY.md.
 
 ## Contact & Notes
 
-This repository is a personal portfolio project. For demo requests, collaboration or questions, contact: your-email@example.com (replace with your contact).
+This repository is a personal portfolio project. For demo requests, collaboration or questions, contact: mo.jokar80@gmail.com (replace with your contact).
 
 ---
 
