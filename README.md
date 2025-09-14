@@ -73,7 +73,7 @@ These elements are highly attractive in interviews and MSc/PhD applications for 
 > Basic quickstart (assumes Docker installed):
 
 # clone the repo
-git clone https://github.com/YOUR-USERNAME/edge-sight-iot.git
+git clone https://github.com/mjokarr/edge-sight-iot.git
 cd edge-sight-iot
 
 # bring up the stack
